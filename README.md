@@ -48,7 +48,7 @@ int main()
 
             else if (d<0)
 
-                        cout << " rishe nadarim " ;
+                        cout << " The equation has no roots" ;
 
 
    getch() ; return 0 ; }
